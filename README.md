@@ -37,13 +37,13 @@ Patronage and commissions are enticing because you get money without having to s
 
 * build an audience
 
-** take names at gigs
+*  take names at gigs
 
-** stay in touch via email and FB
+*  stay in touch via email and FB
 
-** talk about the act of creation as well as upcoming performances
+*  talk about the act of creation as well as upcoming performances
 
-** give fans multiple ways to pay you.
+*  give fans multiple ways to pay you.
 
 * be recommendable
 
