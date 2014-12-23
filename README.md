@@ -36,13 +36,23 @@ Patronage and commissions are enticing because you get money without having to s
 # TODO
 
 * build an audience
+
 ** take names at gigs
+
 ** stay in touch via email and FB
+
 ** talk about the act of creation as well as upcoming performances
+
 ** give fans multiple ways to pay you.
+
 * be recommendable
+
 * learn to ask
+
 * spin out products from your art (paintings to t-shirts, compositions to albums, poems to prints, etc.)
+
 * be visible
+
 * be reliable
-tools (patreon, etc.)
+
+* tools (patreon, etc.)
