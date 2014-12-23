@@ -22,7 +22,9 @@ For our purposes, art is something you like to do and which other people (your *
 ## Patronage
 
 The two phases of art are:
+
 1. Artist creates art.
+
 2. Audience enjoys art.
 
 **Patronage** is when you, the artist, are paid to create art.  Sometimes this is a **commission** (in which case the person who pays you now owns the work), but in both cases you're being paid to produce art.
